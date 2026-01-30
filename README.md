@@ -28,6 +28,8 @@ Instructions:
     >
     > Depending on your system prompt / model combination,
     > you may need to edit the README file to remove the [prompt injection attack](https://simonwillison.net/series/prompt-injection/).
+    > Frontier models tend to be better about these types of injection attacks,
+    > but they are in principle not solvable with the transformer architecture.
 
 4. Modify this file to include an image demonstrating that your testcases are passing on github actions.
 
